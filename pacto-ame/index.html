@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pacto.Ame — Observatório Social de Americana</title>
+  <meta name="description" content="Pacto.Ame: painel de indicadores dos Objetivos de Desenvolvimento Sustentável (ODS) em Americana.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Roboto:wght@400;500&display=swap">
+  <link rel="stylesheet" href="../assets/css/tokens.css">
+  <link rel="stylesheet" href="../assets/css/site.css">
+  <link rel="stylesheet" href="../assets/css/pacto-ame.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+</head>
+<body data-raiz="../" data-pagina="pacto-ame/">
+  <header id="topo"><noscript><a href="../">Início</a></noscript></header>
+  <div id="subabas"></div>
+  <main class="conteudo">
+    <noscript><p class="provisorio">O painel precisa de JavaScript ativado para ser exibido.</p></noscript>
+    <div class="pa">
+      <header class="pa-head">
+        <p class="pa-eyebrow">Observatório Social de Americana · Pacto.Ame</p>
+        <h1 class="pa-title">Indicadores dos ODS em Americana</h1>
+        <p class="pa-lede">Cada ODS reúne as metas escolhidas para acompanhamento no Pacto.Ame. Hoje, <b data-draw="n-serie" data-source="resumo" data-field="com_serie" data-row="0">—</b> indicadores já têm série histórica, <b data-draw="n-pontual" data-source="resumo" data-field="pontual" data-row="0">—</b> têm um dado pontual e <b data-draw="n-coleta" data-source="resumo" data-field="em_coleta" data-row="0">—</b> estão em coleta, de <b data-draw="n-total" data-source="resumo" data-field="total" data-row="0">—</b> no total.</p>
+        <p class="pa-proto">Protótipo · dados parciais, em validação</p>
+      </header>
+    
+      <nav class="pa-nav" aria-label="Escolher ODS">
+        <button type="button" class="pa-ods" data-ods="todos" aria-pressed="true"><span class="pa-num">∑</span><span class="pa-nome">Todos os ODS</span><span class="pa-cont" data-draw="n-total" data-source="resumo" data-field="total" data-row="0">—</span></button>
+        <button type="button" class="pa-ods" data-ods="1" aria-pressed="false" style="--ods:#e5243b"><span class="pa-num">1</span><span class="pa-nome">Erradicação da pobreza</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=1" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="2" aria-pressed="false" style="--ods:#dda63a"><span class="pa-num">2</span><span class="pa-nome">Fome zero e agricultura sustentável</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=2" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="3" aria-pressed="false" style="--ods:#4c9f38"><span class="pa-num">3</span><span class="pa-nome">Saúde e bem-estar</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=3" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="4" aria-pressed="false" style="--ods:#c5192d"><span class="pa-num">4</span><span class="pa-nome">Educação de qualidade</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=4" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="5" aria-pressed="false" style="--ods:#ff3a21"><span class="pa-num">5</span><span class="pa-nome">Igualdade de gênero</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=5" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="6" aria-pressed="false" style="--ods:#26bde2"><span class="pa-num">6</span><span class="pa-nome">Água potável e saneamento</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=6" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="7" aria-pressed="false" style="--ods:#fcc30b"><span class="pa-num">7</span><span class="pa-nome">Energia limpa e acessível</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=7" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="8" aria-pressed="false" style="--ods:#a21942"><span class="pa-num">8</span><span class="pa-nome">Trabalho decente e crescimento econômico</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=8" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="9" aria-pressed="false" style="--ods:#fd6925"><span class="pa-num">9</span><span class="pa-nome">Indústria, inovação e infraestrutura</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=9" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="10" aria-pressed="false" style="--ods:#dd1367"><span class="pa-num">10</span><span class="pa-nome">Redução das desigualdades</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=10" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="11" aria-pressed="false" style="--ods:#fd9d24"><span class="pa-num">11</span><span class="pa-nome">Cidades e comunidades sustentáveis</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=11" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="12" aria-pressed="false" style="--ods:#bf8b2e"><span class="pa-num">12</span><span class="pa-nome">Consumo e produção responsáveis</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=12" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="13" aria-pressed="false" style="--ods:#3f7e44"><span class="pa-num">13</span><span class="pa-nome">Ação contra a mudança do clima</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=13" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="14" aria-pressed="false" style="--ods:#0a97d9"><span class="pa-num">14</span><span class="pa-nome">Vida na água</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=14" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="15" aria-pressed="false" style="--ods:#56c02b"><span class="pa-num">15</span><span class="pa-nome">Vida terrestre</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=15" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="16" aria-pressed="false" style="--ods:#00689d"><span class="pa-num">16</span><span class="pa-nome">Paz, justiça e instituições eficazes</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=16" data-field="n">—</span></button>
+        <button type="button" class="pa-ods" data-ods="17" aria-pressed="false" style="--ods:#19486a"><span class="pa-num">17</span><span class="pa-nome">Parcerias e meios de implementação</span><span class="pa-cont" data-draw="cont" data-source="por_ods" data-where="ods=17" data-field="n">—</span></button>
+      </nav>
+    
+      <p class="pa-vazio" hidden>Este ODS não tem meta aprovada para acompanhamento nesta etapa. Ele pode entrar quando as metas que ficaram em debate forem revisadas.</p>
+    
+      <div class="pa-grade" id="grade" data-draw="grade" data-source="indicadores series origem_carga">—</div>
+    
+      <footer class="pa-pe">
+        <p><b>Como ler os cartões.</b> “Série carregada” tem histórico no gráfico. “Dado pontual” tem só o valor mais recente. “Em coleta” já tem a fonte definida e espera os dados.</p>
+        <p><b>Relação com o PPA.</b> Medir: o PPA tem a meta, mas não o indicador. Aprimorar: tem os dois, mas dá para melhorar. Aprimorar parcial: o indicador do PPA cobre só parte da meta. Debater: o tema não está no PPA. Informativo: tema regional, sem cobrança do PPA. Desconsiderar: não se aplica a Americana ou não dá para medir. Em “Todos os ODS”, os cartões aparecem resumidos (último valor e minigráfico) e o filtro mostra só um desses grupos; clique num cartão para abrir o ODS.</p>
+        <p>Território: Americana (SP). São Paulo e Brasil entram depois como comparação. Passe o mouse sobre um gráfico para ver os valores de cada ano.</p>
+      </footer>
+    </div>
+  </main>
+  <footer id="rodape"></footer>
+  <script src="../assets/js/menu.js"></script>
+  <script src="../assets/js/pacto-ame.js"></script>
+</body>
+</html>

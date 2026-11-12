@@ -1,0 +1,5 @@
+# Configuração do GitHub Pages (Jekyll).
+# Arquivos de trabalho que não devem virar páginas do site publicado.
+exclude:
+  - CLAUDE.md
+  - CLAUDE.local.md

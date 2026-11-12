@@ -1,0 +1,27 @@
+/*
+  Identidade visual — único lugar para cores e fontes.
+  Referência provisória: paleta e tipografia observadas no site da rede OSB (osbrasil.org.br).
+  Trocar pelos valores do manual de identidade oficial quando os arquivos chegarem.
+*/
+:root {
+  /* Cores principais */
+  --cor-primaria: #0f4c81;        /* azul-marinho */
+  --cor-primaria-escura: #07273d; /* azul escuro (rodapé, títulos) */
+  --cor-secundaria: #1c9151;      /* verde */
+  --cor-destaque: #cc3366;        /* magenta (uso pontual) */
+
+  /* Neutros */
+  --cor-texto: #333333;
+  --cor-texto-suave: #5e5e5e;
+  --cor-fundo: #ffffff;
+  --cor-fundo-alt: #f3f6f9;
+  --cor-borda: #dde3ea;
+
+  /* Tipografia */
+  --fonte-titulo: "Poppins", system-ui, sans-serif;
+  --fonte-texto: "Roboto", system-ui, sans-serif;
+
+  /* Medidas */
+  --largura-max: 1120px;
+  --raio: 8px;
+}

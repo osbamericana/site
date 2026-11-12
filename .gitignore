@@ -1,0 +1,8 @@
+# Regras locais do Claude Code (não publicar).
+CLAUDE.local.md
+
+# Arquivos de entrada do projeto Pacto.Ame (ficam no computador, não vão para o site).
+# Os dados publicados ficam em dados/pacto-ame/.
+pacto-ame/Pacto_Ame_Painel_Indicadores*.html
+pacto-ame/indicadores.json
+pacto-ame/series.json

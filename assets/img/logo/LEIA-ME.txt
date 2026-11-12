@@ -1,0 +1,2 @@
+Espaço reservado para o logo oficial do Observatório Social de Americana.
+Quando o arquivo chegar, colocá-lo aqui e trocar o quadro "logo" em assets/js/menu.js pela imagem.

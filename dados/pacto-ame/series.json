@@ -1,0 +1,6098 @@
+[
+ {
+  "id": "12.5-rsu",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 0.89
+ },
+ {
+  "id": "12.5-seletiva",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 2.21
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 5.86
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 4.33
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 4.49
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 6.13
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 5.9
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 6.06
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 5.4
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2018",
+  "valor": 7.32
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2019",
+  "valor": 7.3
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2020",
+  "valor": 7.54
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2021",
+  "valor": 7.84
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2022",
+  "valor": 8.39
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2023",
+  "valor": 8.58
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Bacia PCJ",
+  "periodo": "2024",
+  "valor": 8.42
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2018",
+  "valor": 6.34
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2019",
+  "valor": 6.32
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2020",
+  "valor": 7.67
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2021",
+  "valor": 7.55
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2022",
+  "valor": 7.06
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2023",
+  "valor": 7.1
+ },
+ {
+  "id": "6.2-ictem",
+  "serie": "Estado de SP",
+  "periodo": "2024",
+  "valor": 7.08
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2018",
+  "valor": 95.67
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2019",
+  "valor": 95.67
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2020",
+  "valor": 95.67
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2021",
+  "valor": 95.67
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2022",
+  "valor": 95.67
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2023",
+  "valor": 95.6
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Coleta",
+  "periodo": "2024",
+  "valor": 95.6
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2018",
+  "valor": 74.5
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2019",
+  "valor": 58.35
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2020",
+  "valor": 61.3
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2021",
+  "valor": 99.99
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2022",
+  "valor": 100
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2023",
+  "valor": 100
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Tratamento do coletado",
+  "periodo": "2024",
+  "valor": 69.7
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2018",
+  "valor": 60.5
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2019",
+  "valor": 41.5
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2020",
+  "valor": 42.7
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2021",
+  "valor": 43.2
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2022",
+  "valor": 44.4
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2023",
+  "valor": 47.2
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Remoção na estação",
+  "periodo": "2024",
+  "valor": 62.9
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2018",
+  "valor": 43.1
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2019",
+  "valor": 23.2
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2020",
+  "valor": 25.1
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2021",
+  "valor": 41.3
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2022",
+  "valor": 42.5
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2023",
+  "valor": 45.1
+ },
+ {
+  "id": "6.2-etapas",
+  "serie": "Eficiência global",
+  "periodo": "2024",
+  "valor": 41.9
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2018",
+  "valor": 12744.2
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2019",
+  "valor": 12877.8
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2020",
+  "valor": 13007.8
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2021",
+  "valor": 13134.3
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2022",
+  "valor": 13134.3
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2023",
+  "valor": 12751.1
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Gerada pela cidade",
+  "periodo": "2024",
+  "valor": 13257.1
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2018",
+  "valor": 7246.3
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2019",
+  "valor": 9893.1
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2020",
+  "valor": 9748.7
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2021",
+  "valor": 7710.8
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2022",
+  "valor": 7553.2
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2023",
+  "valor": 6994.9
+ },
+ {
+  "id": "6.2-carga",
+  "serie": "Sobra e chega ao rio",
+  "periodo": "2024",
+  "valor": 7702
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Esgoto tratado ÷ água consumida (oficial)",
+  "periodo": "2024",
+  "valor": 62.95
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Esgoto coletado ÷ água consumida",
+  "periodo": "2024",
+  "valor": 92.01
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Tratado ÷ coletado",
+  "periodo": "2024",
+  "valor": 68.94
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "População com rede coletora",
+  "periodo": "2024",
+  "valor": 96.84
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2015",
+  "valor": 24
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2016",
+  "valor": 29
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2017",
+  "valor": 20
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2018",
+  "valor": 26
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2019",
+  "valor": 24
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2020",
+  "valor": 45
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2021",
+  "valor": 143
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2022",
+  "valor": 185
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2023",
+  "valor": 187
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2024",
+  "valor": 137
+ },
+ {
+  "id": "16.2",
+  "serie": "Notificações (0 a 14 anos)",
+  "periodo": "2025",
+  "valor": 259
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2015",
+  "valor": 28
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2016",
+  "valor": 30
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2017",
+  "valor": 15
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2018",
+  "valor": 28
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2019",
+  "valor": 18
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2020",
+  "valor": 19
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2021",
+  "valor": 41
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2022",
+  "valor": 55
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2023",
+  "valor": 67
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2024",
+  "valor": 52
+ },
+ {
+  "id": "16.2-15a19",
+  "serie": "Notificações (15 a 19 anos)",
+  "periodo": "2025",
+  "valor": 60
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Esgoto tratado ÷ água consumida (oficial)",
+  "periodo": "2023",
+  "valor": 65.67
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Esgoto coletado ÷ água consumida",
+  "periodo": "2023",
+  "valor": 93.75
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "Tratado ÷ coletado",
+  "periodo": "2023",
+  "valor": 70.47
+ },
+ {
+  "id": "6.2-sinisa",
+  "serie": "População com rede coletora",
+  "periodo": "2023",
+  "valor": 96.55
+ },
+ {
+  "id": "6.1-atend",
+  "serie": "DAE",
+  "periodo": "2023",
+  "valor": 99.53
+ },
+ {
+  "id": "6.1-atend",
+  "serie": "DAE",
+  "periodo": "2024",
+  "valor": 99.83
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Vigilância sanitária",
+  "periodo": "2022",
+  "valor": 14.77
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Vigilância sanitária",
+  "periodo": "2023",
+  "valor": 14.95
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Vigilância sanitária",
+  "periodo": "2024",
+  "valor": 5
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Vigilância sanitária",
+  "periodo": "2025",
+  "valor": 6.47
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2024",
+  "valor": 0
+ },
+ {
+  "id": "6.1-colif",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Vigilância sanitária",
+  "periodo": "2022",
+  "valor": 0.57
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Vigilância sanitária",
+  "periodo": "2023",
+  "valor": 0.93
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Vigilância sanitária",
+  "periodo": "2024",
+  "valor": 0.91
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Vigilância sanitária",
+  "periodo": "2025",
+  "valor": 0.43
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2024",
+  "valor": 0
+ },
+ {
+  "id": "6.1-ecoli",
+  "serie": "Controle declarado pelo DAE",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — vigilância",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — vigilância",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — vigilância",
+  "periodo": "2024",
+  "valor": 0.46
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — vigilância",
+  "periodo": "2025",
+  "valor": 2.2
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — controle",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — controle",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — controle",
+  "periodo": "2024",
+  "valor": 0.21
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Cloro fora do padrão — controle",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — vigilância",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — vigilância",
+  "periodo": "2023",
+  "valor": 0.47
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — vigilância",
+  "periodo": "2024",
+  "valor": 2.27
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — vigilância",
+  "periodo": "2025",
+  "valor": 1.32
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — controle",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — controle",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — controle",
+  "periodo": "2024",
+  "valor": 0.04
+ },
+ {
+  "id": "6.1-cloroturb",
+  "serie": "Turbidez acima do padrão — controle",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "6.1-turb",
+  "serie": "Estação de tratamento do DAE",
+  "periodo": "2022",
+  "valor": 41.66
+ },
+ {
+  "id": "6.1-turb",
+  "serie": "Estação de tratamento do DAE",
+  "periodo": "2023",
+  "valor": 85.83
+ },
+ {
+  "id": "6.1-turb",
+  "serie": "Estação de tratamento do DAE",
+  "periodo": "2024",
+  "valor": 58.93
+ },
+ {
+  "id": "6.1-turb",
+  "serie": "Estação de tratamento do DAE",
+  "periodo": "2025",
+  "valor": 85.26
+ },
+ {
+  "id": "6.1-plano",
+  "serie": "Pós-filtração (turbidez)",
+  "periodo": "2022",
+  "valor": 67.31
+ },
+ {
+  "id": "6.1-plano",
+  "serie": "Pós-filtração (turbidez)",
+  "periodo": "2023",
+  "valor": 67.15
+ },
+ {
+  "id": "6.1-plano",
+  "serie": "Pós-filtração (turbidez)",
+  "periodo": "2024",
+  "valor": 67.38
+ },
+ {
+  "id": "6.1-plano",
+  "serie": "Pós-filtração (turbidez)",
+  "periodo": "2025",
+  "valor": 66.21
+ },
+ {
+  "id": "1.2",
+  "serie": "Pessoas em pobreza no CadÚnico",
+  "periodo": "2026-08",
+  "valor": 5.7
+ },
+ {
+  "id": "6.1-fora",
+  "serie": "Vigilância sanitária",
+  "periodo": "2022",
+  "valor": 14.77
+ },
+ {
+  "id": "6.1-fora",
+  "serie": "Vigilância sanitária",
+  "periodo": "2023",
+  "valor": 15.42
+ },
+ {
+  "id": "6.1-fora",
+  "serie": "Vigilância sanitária",
+  "periodo": "2024",
+  "valor": 7.73
+ },
+ {
+  "id": "6.1-fora",
+  "serie": "Vigilância sanitária",
+  "periodo": "2025",
+  "valor": 9.91
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 34.87
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 44.92
+ },
+ {
+  "id": "3.1",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2015",
+  "valor": 10.81
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2016",
+  "valor": 7.21
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2017",
+  "valor": 7.47
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2018",
+  "valor": 11.19
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2019",
+  "valor": 9.08
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2020",
+  "valor": 6.6
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2021",
+  "valor": 10.41
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2022",
+  "valor": 9.41
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2023",
+  "valor": 8.65
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2024",
+  "valor": 9.43
+ },
+ {
+  "id": "3.2",
+  "serie": "Infantil (menores de 1 ano)",
+  "periodo": "2025",
+  "valor": 13.88
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2015",
+  "valor": 7.67
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2016",
+  "valor": 2.81
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2017",
+  "valor": 6.35
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2018",
+  "valor": 8.58
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2019",
+  "valor": 6.43
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2020",
+  "valor": 3.71
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2021",
+  "valor": 7.49
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2022",
+  "valor": 6.55
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2023",
+  "valor": 6.92
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2024",
+  "valor": 6.29
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal (0 a 27 dias)",
+  "periodo": "2025",
+  "valor": 9.85
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2015",
+  "valor": 5.23
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2016",
+  "valor": 1.2
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2017",
+  "valor": 4.85
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2018",
+  "valor": 6.72
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2019",
+  "valor": 4.92
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2020",
+  "valor": 3.3
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2021",
+  "valor": 6.24
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2022",
+  "valor": 4.5
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2023",
+  "valor": 4.76
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2024",
+  "valor": 4.94
+ },
+ {
+  "id": "3.2",
+  "serie": "Neonatal precoce (0 a 6 dias)",
+  "periodo": "2025",
+  "valor": 8.06
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2015",
+  "valor": 3.14
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2016",
+  "valor": 4.41
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2017",
+  "valor": 1.12
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2018",
+  "valor": 2.61
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2019",
+  "valor": 2.65
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2020",
+  "valor": 2.89
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2021",
+  "valor": 2.91
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2022",
+  "valor": 2.87
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2023",
+  "valor": 1.73
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2024",
+  "valor": 3.14
+ },
+ {
+  "id": "3.2",
+  "serie": "Pós-neonatal (28 a 364 dias)",
+  "periodo": "2025",
+  "valor": 4.03
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 214.48
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 226.76
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 201.19
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 239.02
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 224.65
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 232.4
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 254.22
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 262.26
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 235.84
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 258.77
+ },
+ {
+  "id": "3.4",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 265.37
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2015",
+  "valor": 13.55
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2016",
+  "valor": 13.4
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2017",
+  "valor": 9.85
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2018",
+  "valor": 11.02
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2019",
+  "valor": 11.76
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2020",
+  "valor": 14.57
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2021",
+  "valor": 11.57
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2022",
+  "valor": 13.97
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2023",
+  "valor": 8.57
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2024",
+  "valor": 11.76
+ },
+ {
+  "id": "3.6-sim",
+  "serie": "Moradores de Americana (SIM)",
+  "periodo": "2025",
+  "valor": 10.91
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2015",
+  "valor": 10.4
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2016",
+  "valor": 10.82
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2017",
+  "valor": 10.82
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2018",
+  "valor": 8.74
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2019",
+  "valor": 10.4
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2020",
+  "valor": 9.15
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2021",
+  "valor": 13.73
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2022",
+  "valor": 12.06
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2023",
+  "valor": 9.98
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2024",
+  "valor": 11.92
+ },
+ {
+  "id": "3.6-infosiga",
+  "serie": "Pelo local do sinistro (Infosiga)",
+  "periodo": "2025",
+  "valor": 8.99
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2015",
+  "valor": 19.23
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2016",
+  "valor": 14.27
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2017",
+  "valor": 15.84
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2018",
+  "valor": 15.26
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2019",
+  "valor": 18.9
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2020",
+  "valor": 14.98
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2021",
+  "valor": 13.64
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2022",
+  "valor": 12.74
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2023",
+  "valor": 16.73
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2024",
+  "valor": 13.78
+ },
+ {
+  "id": "3.3",
+  "serie": "Tuberculose (casos novos)",
+  "periodo": "2025",
+  "valor": 16.16
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2015",
+  "valor": 15.29
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2016",
+  "valor": 14.27
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2017",
+  "valor": 6.85
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2018",
+  "valor": 16.96
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2019",
+  "valor": 13.02
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2020",
+  "valor": 12.9
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2021",
+  "valor": 12.81
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2022",
+  "valor": 17.67
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2023",
+  "valor": 9.39
+ },
+ {
+  "id": "3.3",
+  "serie": "Aids (casos)",
+  "periodo": "2024",
+  "valor": 7.3
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2005",
+  "valor": 5.2
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2007",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 6.1
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.3
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 6.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2023",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2005",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2007",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 4.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5.1
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.2
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 5.5
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2023",
+  "valor": 5.5
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2007",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.2
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.4
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.6
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 7.1
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2007",
+  "valor": 4.6
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 5
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5.4
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 6.2
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 6.4
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos iniciais (5º ano)",
+  "periodo": "2023",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos iniciais (5º ano)",
+  "periodo": "2026",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos iniciais (5º ano)",
+  "periodo": "2027",
+  "valor": 7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos iniciais (5º ano)",
+  "periodo": "2028",
+  "valor": 7.1
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos iniciais (5º ano)",
+  "periodo": "2029",
+  "valor": 7.2
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos finais (9º ano)",
+  "periodo": "2023",
+  "valor": 5.5
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos finais (9º ano)",
+  "periodo": "2026",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos finais (9º ano)",
+  "periodo": "2027",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos finais (9º ano)",
+  "periodo": "2028",
+  "valor": 5.8
+ },
+ {
+  "id": "4.1-ideb-pub",
+  "serie": "Meta do PPA · Anos finais (9º ano)",
+  "periodo": "2029",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2007",
+  "valor": 5.5
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 6.4
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 6.1
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.5
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.7
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 6.6
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2023",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2007",
+  "valor": 5
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 5.4
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 5.8
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2023",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 6
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.2
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.4
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.6
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 7.1
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 5.1
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 6.1
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 6.3
+ },
+ {
+  "id": "4.1-ideb-mun",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 6.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2005",
+  "valor": 5.2
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2007",
+  "valor": 5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.1
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 6.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos iniciais (5º ano)",
+  "periodo": "2023",
+  "valor": 6.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2005",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2007",
+  "valor": 4.6
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 4.6
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 4.8
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.1
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 5.1
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 5.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 5.4
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Anos finais (9º ano)",
+  "periodo": "2023",
+  "valor": 5.4
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Ensino Médio",
+  "periodo": "2017",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Ensino Médio",
+  "periodo": "2019",
+  "valor": 4.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Ensino Médio",
+  "periodo": "2021",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Ensino Médio",
+  "periodo": "2023",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2007",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2009",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2011",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2013",
+  "valor": 6.2
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2015",
+  "valor": 6.4
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2017",
+  "valor": 6.6
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2019",
+  "valor": 6.8
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos iniciais (5º ano)",
+  "periodo": "2021",
+  "valor": 7.1
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2007",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2009",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2011",
+  "valor": 4.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2013",
+  "valor": 5.3
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2015",
+  "valor": 5.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2017",
+  "valor": 5.9
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2019",
+  "valor": 6.1
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Anos finais (9º ano)",
+  "periodo": "2021",
+  "valor": 6.3
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Ensino Médio",
+  "periodo": "2019",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-ideb-est",
+  "serie": "Meta do INEP · Ensino Médio",
+  "periodo": "2021",
+  "valor": 4.9
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2005",
+  "valor": 196.2
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2007",
+  "valor": 209.76
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2009",
+  "valor": 232.38
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2011",
+  "valor": 228.74
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2013",
+  "valor": 237.9
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2015",
+  "valor": 248.82
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2017",
+  "valor": 248.4
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2019",
+  "valor": 252.89
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2021",
+  "valor": 243.27
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2023",
+  "valor": 246.87
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2005",
+  "valor": 198
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2007",
+  "valor": 192.17
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2009",
+  "valor": 207.88
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2011",
+  "valor": 208.02
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2013",
+  "valor": 216.32
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2015",
+  "valor": 229.66
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2017",
+  "valor": 233.46
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2019",
+  "valor": 231.19
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2021",
+  "valor": 225.25
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 5º ano",
+  "periodo": "2023",
+  "valor": 229.29
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2005",
+  "valor": 256.5
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2007",
+  "valor": 256.44
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2009",
+  "valor": 253.59
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2011",
+  "valor": 260.28
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2013",
+  "valor": 262.67
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2015",
+  "valor": 267.69
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2017",
+  "valor": 268.89
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2019",
+  "valor": 273.4
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2021",
+  "valor": 267.88
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2023",
+  "valor": 270.6
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2005",
+  "valor": 241
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2007",
+  "valor": 243.24
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2009",
+  "valor": 252.57
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2011",
+  "valor": 254.51
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2013",
+  "valor": 257.76
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2015",
+  "valor": 265.38
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2017",
+  "valor": 267.68
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2019",
+  "valor": 270.95
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2021",
+  "valor": 266.98
+ },
+ {
+  "id": "4.1-saeb-pub",
+  "serie": "Português · 9º ano",
+  "periodo": "2023",
+  "valor": 272.28
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2007",
+  "valor": 215.43
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2009",
+  "valor": 241.78
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2011",
+  "valor": 234.94
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2013",
+  "valor": 243.33
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2015",
+  "valor": 250.18
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2017",
+  "valor": 245.48
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2019",
+  "valor": 251.71
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2021",
+  "valor": 242.1
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2023",
+  "valor": 249.58
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2007",
+  "valor": 196.19
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2009",
+  "valor": 217.52
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2011",
+  "valor": 213.65
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2013",
+  "valor": 222.18
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2015",
+  "valor": 231.55
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2017",
+  "valor": 233.87
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2019",
+  "valor": 231.77
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2021",
+  "valor": 225.3
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 5º ano",
+  "periodo": "2023",
+  "valor": 232.36
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2007",
+  "valor": 262.38
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2009",
+  "valor": 267.28
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2011",
+  "valor": 278.69
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2013",
+  "valor": 278.46
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2015",
+  "valor": 279.85
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2017",
+  "valor": 284.3
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2019",
+  "valor": 282.46
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2021",
+  "valor": 272.16
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2023",
+  "valor": 280.29
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2007",
+  "valor": 245.13
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2009",
+  "valor": 264.34
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2011",
+  "valor": 269.9
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2013",
+  "valor": 273.78
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2015",
+  "valor": 271.61
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2017",
+  "valor": 278.02
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2019",
+  "valor": 278.84
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2021",
+  "valor": 272.4
+ },
+ {
+  "id": "4.1-saeb-mun",
+  "serie": "Português · 9º ano",
+  "periodo": "2023",
+  "valor": 279.59
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2005",
+  "valor": 196.2
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2007",
+  "valor": 206.09
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2009",
+  "valor": 226.34
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2011",
+  "valor": 224.23
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2013",
+  "valor": 231.12
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2015",
+  "valor": 247.61
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2017",
+  "valor": 251.17
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2019",
+  "valor": 254.1
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2021",
+  "valor": 244.41
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 5º ano",
+  "periodo": "2023",
+  "valor": 244.01
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2005",
+  "valor": 198
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2007",
+  "valor": 189.57
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2009",
+  "valor": 201.7
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2011",
+  "valor": 203.94
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2013",
+  "valor": 208.98
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2015",
+  "valor": 227.98
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2017",
+  "valor": 233.08
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2019",
+  "valor": 230.59
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2021",
+  "valor": 225.19
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 5º ano",
+  "periodo": "2023",
+  "valor": 226.04
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2005",
+  "valor": 256.5
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2007",
+  "valor": 255.28
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2009",
+  "valor": 250.31
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2011",
+  "valor": 256.87
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2013",
+  "valor": 259
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2015",
+  "valor": 264.28
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2017",
+  "valor": 263.44
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2019",
+  "valor": 270.62
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2021",
+  "valor": 266.53
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · 9º ano",
+  "periodo": "2023",
+  "valor": 267.48
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2005",
+  "valor": 241
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2007",
+  "valor": 242.87
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2009",
+  "valor": 249.75
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2011",
+  "valor": 251.67
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2013",
+  "valor": 254.05
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2015",
+  "valor": 263.63
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2017",
+  "valor": 264.02
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2019",
+  "valor": 268.54
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2021",
+  "valor": 265.26
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · 9º ano",
+  "periodo": "2023",
+  "valor": 269.93
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · Ensino Médio",
+  "periodo": "2017",
+  "valor": 287.37
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · Ensino Médio",
+  "periodo": "2019",
+  "valor": 296.36
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · Ensino Médio",
+  "periodo": "2021",
+  "valor": 287.41
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Matemática · Ensino Médio",
+  "periodo": "2023",
+  "valor": 281.4
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · Ensino Médio",
+  "periodo": "2017",
+  "valor": 286.97
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · Ensino Médio",
+  "periodo": "2019",
+  "valor": 295.86
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · Ensino Médio",
+  "periodo": "2021",
+  "valor": 291.54
+ },
+ {
+  "id": "4.1-saeb-est",
+  "serie": "Português · Ensino Médio",
+  "periodo": "2023",
+  "valor": 289.06
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2019",
+  "valor": 97.7
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2020",
+  "valor": 100
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2021",
+  "valor": 99.5
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2022",
+  "valor": 98.5
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2023",
+  "valor": 98.3
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2024",
+  "valor": 99
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2025",
+  "valor": 98.9
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2019",
+  "valor": 97.8
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2020",
+  "valor": 98.8
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2021",
+  "valor": 98.6
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2022",
+  "valor": 98.1
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2023",
+  "valor": 97.9
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2024",
+  "valor": 98.7
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2025",
+  "valor": 98.5
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2019",
+  "valor": 93.3
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2020",
+  "valor": 95.8
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2021",
+  "valor": 91.8
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2022",
+  "valor": 90.1
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2023",
+  "valor": 90.7
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2024",
+  "valor": 93.6
+ },
+ {
+  "id": "4.1-aprov",
+  "serie": "Estadual · Médio",
+  "periodo": "2025",
+  "valor": 92.5
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2019",
+  "valor": 0
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2020",
+  "valor": 0
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2021",
+  "valor": 0
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2023",
+  "valor": 0.1
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2024",
+  "valor": 0.1
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2025",
+  "valor": 0.2
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2019",
+  "valor": 0.3
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2020",
+  "valor": 0.1
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2021",
+  "valor": 0.4
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2022",
+  "valor": 0.5
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2023",
+  "valor": 0.5
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2024",
+  "valor": 0.3
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2025",
+  "valor": 0.7
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2019",
+  "valor": 1.4
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2020",
+  "valor": 0.1
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2021",
+  "valor": 2.9
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2022",
+  "valor": 3.3
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2023",
+  "valor": 3.7
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2024",
+  "valor": 2
+ },
+ {
+  "id": "4.1-aband",
+  "serie": "Estadual · Médio",
+  "periodo": "2025",
+  "valor": 3.8
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2019",
+  "valor": 4.6
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2020",
+  "valor": 4.4
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2021",
+  "valor": 3.8
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2022",
+  "valor": 3
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2023",
+  "valor": 3.1
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2024",
+  "valor": 3.5
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Municipal · Fundamental",
+  "periodo": "2025",
+  "valor": 2.9
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2019",
+  "valor": 5.8
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2020",
+  "valor": 5.6
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2021",
+  "valor": 4.9
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2022",
+  "valor": 4.7
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2023",
+  "valor": 4.5
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2024",
+  "valor": 4.1
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Fundamental",
+  "periodo": "2025",
+  "valor": 3.9
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2019",
+  "valor": 8.6
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2020",
+  "valor": 8.5
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2021",
+  "valor": 9.2
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2022",
+  "valor": 9.4
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2023",
+  "valor": 8.6
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2024",
+  "valor": 7.3
+ },
+ {
+  "id": "4.1-dist",
+  "serie": "Estadual · Médio",
+  "periodo": "2025",
+  "valor": 7.4
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 3.9
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 4.7
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 6.8
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 4.2
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 3.3
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 4.1
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 3.3
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 5.1
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 4.6
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 6.1
+ },
+ {
+  "id": "16.1-homicidio",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 3.6
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2015",
+  "valor": 258.6
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2016",
+  "valor": 421.4
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2017",
+  "valor": 313.4
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2018",
+  "valor": 275.8
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2019",
+  "valor": 252.5
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2020",
+  "valor": 155.8
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2021",
+  "valor": 122.8
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2022",
+  "valor": 137.8
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2023",
+  "valor": 126.0
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2024",
+  "valor": 101.4
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Outros roubos",
+  "periodo": "2025",
+  "valor": 86.0
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2015",
+  "valor": 70.6
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2016",
+  "valor": 59.1
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2017",
+  "valor": 52.2
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2018",
+  "valor": 51.9
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2019",
+  "valor": 53.0
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2020",
+  "valor": 26.4
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2021",
+  "valor": 23.3
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2022",
+  "valor": 42.6
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2023",
+  "valor": 41.7
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2024",
+  "valor": 34.1
+ },
+ {
+  "id": "16.1-roubo",
+  "serie": "Roubo de veículos",
+  "periodo": "2025",
+  "valor": 18.2
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 320.1
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 335.0
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 340.8
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 294.8
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 308.9
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 241.3
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 195.6
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 284.5
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 324.1
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 293.5
+ },
+ {
+  "id": "16.1-lesao",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 300.1
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 17
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 19
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 21
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 25
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 20
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 32
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 47
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 40
+ },
+ {
+  "id": "16.2-estupro-vuln",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 33
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 11.3
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 16.8
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 13.7
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 12.2
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 12.1
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 16.1
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 12.7
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 17.3
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 28.7
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 20.3
+ },
+ {
+  "id": "5.2-estupro",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 19.4
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 0
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 0
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 1
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 1
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 0
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 1
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 1
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 3
+ },
+ {
+  "id": "5.2-feminicidio",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 1
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2002",
+  "valor": 46.0
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2003",
+  "valor": 48.1
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2004",
+  "valor": 49.2
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2005",
+  "valor": 46.1
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2006",
+  "valor": 42.4
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2007",
+  "valor": 42.2
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2008",
+  "valor": 41.0
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2009",
+  "valor": 39.5
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2010",
+  "valor": 37.7
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2011",
+  "valor": 37.3
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2012",
+  "valor": 33.4
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2013",
+  "valor": 31.1
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2014",
+  "valor": 29.3
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 26.4
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 28.9
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 29.0
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 29.2
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 29.2
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 28.2
+ },
+ {
+  "id": "9.2",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 35.1
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2002",
+  "valor": 7.13
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2002",
+  "valor": 7.9
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2003",
+  "valor": 7.14
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2003",
+  "valor": 7.7
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2004",
+  "valor": 6.55
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2004",
+  "valor": 8.0
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2005",
+  "valor": 5.85
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2005",
+  "valor": 7.5
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2006",
+  "valor": 6.01
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2006",
+  "valor": 7.7
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2007",
+  "valor": 6.4
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2007",
+  "valor": 10.0
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2008",
+  "valor": 6.75
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2008",
+  "valor": 9.9
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2009",
+  "valor": 6.27
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2009",
+  "valor": 9.2
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2010",
+  "valor": 6.33
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2010",
+  "valor": 9.7
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2011",
+  "valor": 6.89
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2011",
+  "valor": 9.5
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2012",
+  "valor": 6.38
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2012",
+  "valor": 9.3
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2013",
+  "valor": 6.67
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2013",
+  "valor": 9.5
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2014",
+  "valor": 5.63
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2014",
+  "valor": 10.2
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 4.88
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2015",
+  "valor": 13.4
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 4.64
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 12.9
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 4.63
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2017",
+  "valor": 13.6
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 4.73
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2018",
+  "valor": 16.6
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 4.78
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 16.7
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 4.53
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 24.7
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 5.91
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 44.0
+ },
+ {
+  "id": "9.2-vti",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 5.73
+ },
+ {
+  "id": "9.2-quimica",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 41.2
+ },
+ {
+  "id": "5.5-eleitas",
+  "serie": "Americana",
+  "periodo": "2012",
+  "valor": 5.3
+ },
+ {
+  "id": "5.5-eleitas",
+  "serie": "Americana",
+  "periodo": "2016",
+  "valor": 10.5
+ },
+ {
+  "id": "5.5-eleitas",
+  "serie": "Americana",
+  "periodo": "2020",
+  "valor": 15.8
+ },
+ {
+  "id": "5.5-eleitas",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 26.3
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2002",
+  "valor": 63730
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2002",
+  "valor": 16548
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2003",
+  "valor": 66961
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2003",
+  "valor": 19945
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2004",
+  "valor": 69999
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2004",
+  "valor": 22226
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2005",
+  "valor": 66444
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2005",
+  "valor": 22546
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2006",
+  "valor": 67833
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2006",
+  "valor": 23981
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2007",
+  "valor": 74419
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2007",
+  "valor": 27267
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2008",
+  "valor": 74055
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2008",
+  "valor": 28674
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2009",
+  "valor": 73031
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2009",
+  "valor": 29660
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2010",
+  "valor": 80625
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2010",
+  "valor": 34394
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2011",
+  "valor": 88975
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2011",
+  "valor": 40476
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2012",
+  "valor": 84796
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2012",
+  "valor": 40658
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2013",
+  "valor": 90863
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2013",
+  "valor": 46271
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2014",
+  "valor": 86296
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2014",
+  "valor": 46726
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2015",
+  "valor": 75009
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2015",
+  "valor": 44282
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2016",
+  "valor": 72189
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2016",
+  "valor": 46342
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2017",
+  "valor": 72795
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2017",
+  "valor": 48341
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2018",
+  "valor": 71848
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2018",
+  "valor": 49461
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2019",
+  "valor": 71793
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2019",
+  "valor": 51268
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2020",
+  "valor": 70196
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2020",
+  "valor": 51738
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2021",
+  "valor": 81096
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2021",
+  "valor": 64734
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2022",
+  "valor": 80655
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2022",
+  "valor": 70357
+ },
+ {
+  "id": "8.1",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2023",
+  "valor": 80772
+ },
+ {
+  "id": "8.1",
+  "serie": "Valores da época",
+  "periodo": "2023",
+  "valor": 73695
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2021",
+  "valor": 3980
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Valores da época",
+  "periodo": "2021",
+  "valor": 3177
+ },
+ {
+  "id": "5.5",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 44.8
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2022",
+  "valor": 3975
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Valores da época",
+  "periodo": "2022",
+  "valor": 3467
+ },
+ {
+  "id": "5.5",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 45.9
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2023",
+  "valor": 4190
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Valores da época",
+  "periodo": "2023",
+  "valor": 3823
+ },
+ {
+  "id": "5.5",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 46.2
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2024",
+  "valor": 4229
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Valores da época",
+  "periodo": "2024",
+  "valor": 4027
+ },
+ {
+  "id": "5.5",
+  "serie": "Americana",
+  "periodo": "2024",
+  "valor": 47.9
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Em reais de 2025 (IPCA)",
+  "periodo": "2025",
+  "valor": 4214
+ },
+ {
+  "id": "8.5-rendimento",
+  "serie": "Valores da época",
+  "periodo": "2025",
+  "valor": 4214
+ },
+ {
+  "id": "5.5",
+  "serie": "Americana",
+  "periodo": "2025",
+  "valor": 48.8
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Comércio varejista",
+  "periodo": "2021",
+  "valor": 13774
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços técnico-profissionais",
+  "periodo": "2021",
+  "valor": 9852
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ind. têxtil e vestuário",
+  "periodo": "2021",
+  "valor": 9435
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ensino",
+  "periodo": "2021",
+  "valor": 2525
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Administração pública",
+  "periodo": "2021",
+  "valor": 4522
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços médicos",
+  "periodo": "2021",
+  "valor": 4027
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Comércio varejista",
+  "periodo": "2022",
+  "valor": 14744
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços técnico-profissionais",
+  "periodo": "2022",
+  "valor": 10569
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ind. têxtil e vestuário",
+  "periodo": "2022",
+  "valor": 9539
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ensino",
+  "periodo": "2022",
+  "valor": 2787
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Administração pública",
+  "periodo": "2022",
+  "valor": 4528
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços médicos",
+  "periodo": "2022",
+  "valor": 4467
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Comércio varejista",
+  "periodo": "2023",
+  "valor": 14916
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços técnico-profissionais",
+  "periodo": "2023",
+  "valor": 10151
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ind. têxtil e vestuário",
+  "periodo": "2023",
+  "valor": 8900
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ensino",
+  "periodo": "2023",
+  "valor": 7919
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Administração pública",
+  "periodo": "2023",
+  "valor": 5257
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços médicos",
+  "periodo": "2023",
+  "valor": 5396
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Comércio varejista",
+  "periodo": "2024",
+  "valor": 15080
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços técnico-profissionais",
+  "periodo": "2024",
+  "valor": 11291
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ind. têxtil e vestuário",
+  "periodo": "2024",
+  "valor": 9121
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ensino",
+  "periodo": "2024",
+  "valor": 8968
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Administração pública",
+  "periodo": "2024",
+  "valor": 5034
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços médicos",
+  "periodo": "2024",
+  "valor": 4805
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Comércio varejista",
+  "periodo": "2025",
+  "valor": 15227
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços técnico-profissionais",
+  "periodo": "2025",
+  "valor": 11494
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ind. têxtil e vestuário",
+  "periodo": "2025",
+  "valor": 9078
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Ensino",
+  "periodo": "2025",
+  "valor": 9805
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Administração pública",
+  "periodo": "2025",
+  "valor": 5236
+ },
+ {
+  "id": "8.5-setores",
+  "serie": "Serviços médicos",
+  "periodo": "2025",
+  "valor": 4446
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2006",
+  "valor": 2
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2007",
+  "valor": 1
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2008",
+  "valor": 1
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2009",
+  "valor": 2
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2010",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2011",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2012",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2013",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2014",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2015",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2016",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2017",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2018",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2019",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2020",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2021",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2024",
+  "valor": 0
+ },
+ {
+  "id": "11.5",
+  "serie": "Ocorrências registradas",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "11.6-iqr",
+  "serie": "Americana",
+  "periodo": "2019",
+  "valor": 10.0
+ },
+ {
+  "id": "11.6-iqr",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 10.0
+ },
+ {
+  "id": "11.6-iqr",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 10.0
+ },
+ {
+  "id": "8.5",
+  "serie": "Total",
+  "periodo": "2021",
+  "valor": 74759
+ },
+ {
+  "id": "8.5",
+  "serie": "Sem os servidores do Governo do Estado",
+  "periodo": "2021",
+  "valor": 74759
+ },
+ {
+  "id": "8.5",
+  "serie": "Total",
+  "periodo": "2022",
+  "valor": 78408
+ },
+ {
+  "id": "8.5",
+  "serie": "Sem os servidores do Governo do Estado",
+  "periodo": "2022",
+  "valor": 78408
+ },
+ {
+  "id": "8.5",
+  "serie": "Total",
+  "periodo": "2023",
+  "valor": 84700
+ },
+ {
+  "id": "8.5",
+  "serie": "Sem os servidores do Governo do Estado",
+  "periodo": "2023",
+  "valor": 79752
+ },
+ {
+  "id": "8.5",
+  "serie": "Total",
+  "periodo": "2024",
+  "valor": 87501
+ },
+ {
+  "id": "8.5",
+  "serie": "Sem os servidores do Governo do Estado",
+  "periodo": "2024",
+  "valor": 81510
+ },
+ {
+  "id": "8.5",
+  "serie": "Total",
+  "periodo": "2025",
+  "valor": 89452
+ },
+ {
+  "id": "8.5",
+  "serie": "Sem os servidores do Governo do Estado",
+  "periodo": "2025",
+  "valor": 82680
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1985",
+  "valor": 3.64
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1985",
+  "valor": 21.7
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1986",
+  "valor": 3.64
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1986",
+  "valor": 22.8
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1987",
+  "valor": 3.7
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1987",
+  "valor": 23.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1988",
+  "valor": 3.65
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1988",
+  "valor": 24.3
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1989",
+  "valor": 3.64
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1989",
+  "valor": 24.7
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1990",
+  "valor": 3.73
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1990",
+  "valor": 24.9
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1991",
+  "valor": 3.9
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1991",
+  "valor": 25.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1992",
+  "valor": 3.82
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1992",
+  "valor": 26.1
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1993",
+  "valor": 3.98
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1993",
+  "valor": 26.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1994",
+  "valor": 4.08
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1994",
+  "valor": 27.0
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1995",
+  "valor": 4.07
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1995",
+  "valor": 27.3
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1996",
+  "valor": 3.83
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1996",
+  "valor": 27.4
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1997",
+  "valor": 3.88
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1997",
+  "valor": 27.7
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1998",
+  "valor": 4.01
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1998",
+  "valor": 28.0
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "1999",
+  "valor": 4.18
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "1999",
+  "valor": 28.6
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2000",
+  "valor": 4.87
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2000",
+  "valor": 29.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2001",
+  "valor": 5.24
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2001",
+  "valor": 30.6
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2002",
+  "valor": 5.26
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2002",
+  "valor": 31.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2003",
+  "valor": 5.18
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2003",
+  "valor": 32.4
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2004",
+  "valor": 5.32
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2004",
+  "valor": 33.6
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2005",
+  "valor": 5.33
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2005",
+  "valor": 34.1
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2006",
+  "valor": 5.42
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2006",
+  "valor": 35.0
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2007",
+  "valor": 5.51
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2007",
+  "valor": 35.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2008",
+  "valor": 5.45
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2008",
+  "valor": 36.6
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2009",
+  "valor": 5.46
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2009",
+  "valor": 36.9
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2010",
+  "valor": 5.44
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2010",
+  "valor": 37.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2011",
+  "valor": 5.72
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2011",
+  "valor": 37.7
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2012",
+  "valor": 5.68
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2012",
+  "valor": 38.3
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2013",
+  "valor": 5.85
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2013",
+  "valor": 38.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2014",
+  "valor": 5.79
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2014",
+  "valor": 38.9
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2015",
+  "valor": 5.91
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2015",
+  "valor": 39.1
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2016",
+  "valor": 6.1
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2016",
+  "valor": 39.3
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2017",
+  "valor": 6.49
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2017",
+  "valor": 39.5
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2018",
+  "valor": 6.6
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2018",
+  "valor": 39.8
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2019",
+  "valor": 6.38
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2019",
+  "valor": 39.9
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2020",
+  "valor": 6.31
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2020",
+  "valor": 39.9
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2021",
+  "valor": 6.42
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2021",
+  "valor": 40.2
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2022",
+  "valor": 6.63
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2022",
+  "valor": 40.4
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2023",
+  "valor": 6.79
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2023",
+  "valor": 40.8
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2024",
+  "valor": 7.02
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2024",
+  "valor": 41.3
+ },
+ {
+  "id": "15.1",
+  "serie": "Vegetação nativa",
+  "periodo": "2025",
+  "valor": 7.1
+ },
+ {
+  "id": "15.1-urbano",
+  "serie": "Área urbanizada",
+  "periodo": "2025",
+  "valor": 42.0
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Ozônio",
+  "periodo": "2021",
+  "valor": 6
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2021",
+  "valor": 0
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Ozônio",
+  "periodo": "2021",
+  "valor": 72.4
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2021",
+  "valor": 82.8
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Ozônio",
+  "periodo": "2022",
+  "valor": 11
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2022",
+  "valor": 0
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Ozônio",
+  "periodo": "2022",
+  "valor": 72.4
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2022",
+  "valor": 86.0
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Ozônio",
+  "periodo": "2023",
+  "valor": 7
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2023",
+  "valor": 0
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Ozônio",
+  "periodo": "2023",
+  "valor": 85.3
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2023",
+  "valor": 92.3
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Ozônio",
+  "periodo": "2024",
+  "valor": 26
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2024",
+  "valor": 10
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Ozônio",
+  "periodo": "2024",
+  "valor": 67.9
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2024",
+  "valor": 72.6
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Ozônio",
+  "periodo": "2025",
+  "valor": 19
+ },
+ {
+  "id": "11.6-ar",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2025",
+  "valor": 0
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Ozônio",
+  "periodo": "2025",
+  "valor": 65.9
+ },
+ {
+  "id": "11.6-ar-boa",
+  "serie": "Material particulado (MP10)",
+  "periodo": "2025",
+  "valor": 88.7
+ },
+ {
+  "id": "11.6-ert",
+  "serie": "Americana",
+  "periodo": "2021",
+  "valor": 10.8
+ },
+ {
+  "id": "11.6-ert",
+  "serie": "Americana",
+  "periodo": "2022",
+  "valor": 15.8
+ },
+ {
+  "id": "11.6-ert",
+  "serie": "Americana",
+  "periodo": "2023",
+  "valor": 17.0
+ },
+ {
+  "id": "11.6-ert-max",
+  "serie": "Maior concentração em 1 hora",
+  "periodo": "2022",
+  "valor": 230
+ },
+ {
+  "id": "11.6-ert-max",
+  "serie": "Maior concentração em 1 hora",
+  "periodo": "2023",
+  "valor": 175
+ },
+ {
+  "id": "11.6-ert-max",
+  "serie": "Maior concentração em 1 hora",
+  "periodo": "2024",
+  "valor": 244
+ },
+ {
+  "id": "11.6-ert-max",
+  "serie": "Maior concentração em 1 hora",
+  "periodo": "2025",
+  "valor": 194
+ },
+ {
+  "id": "8.5",
+  "serie": "Meta do PPA · Total",
+  "periodo": "2026",
+  "valor": 79080
+ },
+ {
+  "id": "8.5",
+  "serie": "Meta do PPA · Total",
+  "periodo": "2027",
+  "valor": 79475
+ },
+ {
+  "id": "8.5",
+  "serie": "Meta do PPA · Total",
+  "periodo": "2028",
+  "valor": 79870
+ },
+ {
+  "id": "8.5",
+  "serie": "Meta do PPA · Total",
+  "periodo": "2029",
+  "valor": 80270
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2007",
+  "valor": 36.65
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2008",
+  "valor": 45.28
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2009",
+  "valor": 53.2
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2010",
+  "valor": 64.55
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2011",
+  "valor": 59.9
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2012",
+  "valor": 65.2
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2013",
+  "valor": 60.33
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2014",
+  "valor": 52.48
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2015",
+  "valor": 36.96
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2016",
+  "valor": 36.76
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2017",
+  "valor": 32.9
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2018",
+  "valor": 30.76
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2019",
+  "valor": 28.32
+ },
+ {
+  "id": "3.8",
+  "serie": "Atenção Básica (2007–2020)",
+  "periodo": "2020",
+  "valor": 34.35
+ },
+ {
+  "id": "3.8",
+  "serie": "Por cadastro (2020–2023)",
+  "periodo": "2020",
+  "valor": 10.1
+ },
+ {
+  "id": "3.8",
+  "serie": "Por cadastro (2020–2023)",
+  "periodo": "2021",
+  "valor": 17.95
+ },
+ {
+  "id": "3.8",
+  "serie": "Por cadastro (2020–2023)",
+  "periodo": "2022",
+  "valor": 34.85
+ },
+ {
+  "id": "3.8",
+  "serie": "Por cadastro (2020–2023)",
+  "periodo": "2023",
+  "valor": 51.92
+ },
+ {
+  "id": "3.8",
+  "serie": "Cobertura potencial (desde 2021)",
+  "periodo": "2021",
+  "valor": 22.8
+ },
+ {
+  "id": "3.8",
+  "serie": "Cobertura potencial (desde 2021)",
+  "periodo": "2022",
+  "valor": 29.0
+ },
+ {
+  "id": "3.8",
+  "serie": "Cobertura potencial (desde 2021)",
+  "periodo": "2023",
+  "valor": 42.2
+ },
+ {
+  "id": "3.8",
+  "serie": "Cobertura potencial (desde 2021)",
+  "periodo": "2024",
+  "valor": 44.3
+ },
+ {
+  "id": "3.8",
+  "serie": "Cobertura potencial (desde 2021)",
+  "periodo": "2025",
+  "valor": 43.1
+ },
+ {
+  "id": "3.8",
+  "serie": "Meta do PPA · Por cadastro (2020–2023)",
+  "periodo": "2026",
+  "valor": 59
+ },
+ {
+  "id": "3.8",
+  "serie": "Meta do PPA · Por cadastro (2020–2023)",
+  "periodo": "2027",
+  "valor": 61
+ },
+ {
+  "id": "3.8",
+  "serie": "Meta do PPA · Por cadastro (2020–2023)",
+  "periodo": "2028",
+  "valor": 65
+ },
+ {
+  "id": "3.8",
+  "serie": "Meta do PPA · Por cadastro (2020–2023)",
+  "periodo": "2029",
+  "valor": 75
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "01 jan",
+  "valor": 99
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "02 fev",
+  "valor": 89
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "03 mar",
+  "valor": 99
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "04 abr",
+  "valor": 90
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "05 mai",
+  "valor": 88
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "06 jun",
+  "valor": 76
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "07 jul",
+  "valor": 77
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "08 ago",
+  "valor": 81
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "09 set",
+  "valor": 121
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "10 out",
+  "valor": 104
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "11 nov",
+  "valor": 88
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2024",
+  "periodo": "12 dez",
+  "valor": 60
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "01 jan",
+  "valor": 81
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "02 fev",
+  "valor": 62
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "03 mar",
+  "valor": 72
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "04 abr",
+  "valor": 62
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "05 mai",
+  "valor": 50
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "06 jun",
+  "valor": 70
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "07 jul",
+  "valor": 70
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "08 ago",
+  "valor": 69
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "09 set",
+  "valor": 62
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "10 out",
+  "valor": 71
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "11 nov",
+  "valor": 66
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2025",
+  "periodo": "12 dez",
+  "valor": 105
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "01 jan",
+  "valor": 105
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "02 fev",
+  "valor": 91
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "03 mar",
+  "valor": 116
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "04 abr",
+  "valor": 86
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "05 mai",
+  "valor": 93
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "06 jun",
+  "valor": 102
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "07 jul",
+  "valor": 89
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "08 ago",
+  "valor": 83
+ },
+ {
+  "id": "5.2-domestica",
+  "serie": "2026",
+  "periodo": "09 set",
+  "valor": 93
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2015",
+  "valor": 5.25
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2015",
+  "valor": 11.44
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2016",
+  "valor": 7.02
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2016",
+  "valor": 11.4
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2017",
+  "valor": 7.18
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2017",
+  "valor": 11.47
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2018",
+  "valor": 7.84
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2018",
+  "valor": 12.03
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2019",
+  "valor": 8.04
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2019",
+  "valor": 13.22
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2020",
+  "valor": 7.11
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2020",
+  "valor": 16.6
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2021",
+  "valor": 6.25
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2021",
+  "valor": 11.3
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2022",
+  "valor": 6.51
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2022",
+  "valor": 10.71
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2023",
+  "valor": 6.88
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2023",
+  "valor": 9.99
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2024",
+  "valor": 6.01
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2024",
+  "valor": 9.49
+ },
+ {
+  "id": "2.2",
+  "serie": "Altura baixa para a idade",
+  "periodo": "2025",
+  "valor": 4.91
+ },
+ {
+  "id": "2.2",
+  "serie": "Excesso de peso",
+  "periodo": "2025",
+  "valor": 9.79
+ }
+]
